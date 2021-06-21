@@ -1,5 +1,5 @@
 # DjangoMediaChat
-Creating an image chat back end with Django Rest Framework Rest Api
+Creating a chat back end with Django Rest Framework Rest Api
 
 ## Some Dependences
 
